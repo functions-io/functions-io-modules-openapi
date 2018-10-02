@@ -1,0 +1,7 @@
+{
+    "type": "object",
+    "properties": {
+        "moduleName":{"type":"string", "required":true},
+        "moduleVersion":{"type":"string", "required":true}
+    }
+}
